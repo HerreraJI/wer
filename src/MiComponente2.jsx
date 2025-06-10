@@ -1,6 +1,6 @@
 import React from 'react'
 
-export const MiComponente = () => {
+export const MiComponente2 = () => {
     const user = {
         name: 'Juan',
         lastName: 'Ignacio',
