@@ -1,0 +1,18 @@
+.button{
+    padding: 1rem 2rem;
+    border-radius: 0.5rem;
+    background-color: #d37272;
+    color: white;
+    border: none;
+    cursor: pointer;
+    color:white;
+}
+
+.abierto{
+    background-color: #6cc8c8;
+    transition: .4s 
+}
+
+.abierto:hover{
+    scale: 1.1;
+}

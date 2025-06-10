@@ -1,0 +1,26 @@
+body{
+    background-color: #686868;
+}    
+p{
+    padding: 0 8%;
+    color: white;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+#header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#header img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    /* border: 1px solid rgb(64, 64, 64); */
+    margin: 0 5px;
+
+}
